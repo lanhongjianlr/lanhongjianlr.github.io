@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hongjian Lan
 ---
 
 I am Hongjian Lan, a master student in [Computational Science & Engineering][CSE] at [Georgia Tech][GT].
